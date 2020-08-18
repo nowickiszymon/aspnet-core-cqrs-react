@@ -4,6 +4,8 @@ using API.MemberM;
 using Domain;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Cors;
+
 
 namespace API.Controllers
 {

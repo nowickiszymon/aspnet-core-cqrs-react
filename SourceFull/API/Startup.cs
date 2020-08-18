@@ -17,6 +17,7 @@ using Microsoft.Extensions.Logging;
 
 using Microsoft.EntityFrameworkCore;
 
+using Microsoft.AspNetCore.Cors;
 
 using MediatR;
 using API.MemberM;
@@ -42,6 +43,8 @@ namespace API
             services.AddMediatR(typeof(List.Handler).Assembly);
 
             services.AddControllers();
+            services.AddCors();
+            services.AddMvc();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -55,7 +58,10 @@ namespace API
             app.UseHttpsRedirection();
 
             app.UseRouting();
-
+ 	
+            app.UseCors(builder =>
+                builder.WithOrigins("http://localhost:3000")
+            );
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>

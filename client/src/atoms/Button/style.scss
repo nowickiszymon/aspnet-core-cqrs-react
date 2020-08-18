@@ -1,0 +1,41 @@
+//     xs, extra-small: 0px
+//     sm, small: 600px
+//     md, medium: 960px
+//     lg, large: 1280px
+//     xl, extra-large: 1920px
+
+$xs : 0px;
+$sm : 600px;
+$md : 960px;
+$lg : 1280px;
+$xl : 1920px;
+
+.button {
+        @media screen and (min-width: $xs) {
+                width: 200px;
+                height: 50px;
+                background-color: #D6122A;
+                color: white;
+                border: none;
+                border-radius: 5px;
+                font-weight: lighter;
+                font-size: 1.1rem;
+                font-family: 'Courier New', Courier, monospace;
+                margin: 1%;
+        }
+        @media screen and (min-width: $sm) {
+
+
+        }
+        @media screen and (min-width: $md) {
+
+                
+        }
+        @media screen and (min-width: $lg) {
+
+        }
+        @media screen and (min-width: $xl) {
+
+                
+        }
+}

@@ -1,33 +1,38 @@
 
-*.swp
-*.*~
-project.lock.json
-.DS_Store
-*.pyc
+SourceFull/*.swp
+SourceFull/*.*~
+SourceFull/project.lock.json
+SourceFull/.DS_Store
+SourceFull/*.pyc
 
 # Visual Studio Code
-.vscode
+SourceFull/.vscode
 
 # User-specific files
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
+SourceFull/*.suo
+SourceFull/*.user
+SourceFull/*.userosscache
+SourceFull/*.sln.docstates
 
 # Build results
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
-x64/
-x86/
-build/
-bld/
-[Bb]in/
-[Oo]bj/
-msbuild.log
-msbuild.err
-msbuild.wrn
+SourceFull/[Dd]ebug/
+SourceFull/[Dd]ebugPublic/
+SourceFull/[Rr]elease/
+SourceFull/[Rr]eleases/
+SourceFull/x64/
+SourceFull/x86/
+SourceFull/build/
+SourceFull/bld/
+SourceFull/[Bb]in/
+SourceFull/[Oo]bj/
+SourceFull/msbuild.log
+SourceFull/msbuild.err
+SourceFull/msbuild.wrn
 
 # Visual Studio 2015
 .vs/
+
+SourceFull/SourceFullStoreDb/Migrations
+
+# client
+client/node_modules

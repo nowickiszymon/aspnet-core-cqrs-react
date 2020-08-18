@@ -46,9 +46,21 @@ namespace SourceFullStoreDb.Migrations
                         },
                         new
                         {
-                            Id = 3,
+                            Id = 4,
                             Name = "Lublin",
                             Size = 450000
+                        },
+                        new
+                        {
+                            Id = 5,
+                            Name = "Końskie",
+                            Size = 780000
+                        },
+                        new
+                        {
+                            Id = 6,
+                            Name = "Warszawa",
+                            Size = 21250000
                         });
                 });
 
@@ -72,50 +84,32 @@ namespace SourceFullStoreDb.Migrations
                         new
                         {
                             Id = 1,
-                            Name = "Szymon",
-                            Surname = "Nowutyuicki"
+                            Name = "Adam",
+                            Surname = "Backers"
                         },
                         new
                         {
                             Id = 2,
-                            Name = "Szymoasdas",
-                            Surname = "Nutyowicki"
+                            Name = "Davis",
+                            Surname = "Clarck"
                         },
                         new
                         {
                             Id = 3,
-                            Name = "Szydasdmon",
-                            Surname = "Noutyuwicki"
+                            Name = "Frank",
+                            Surname = "Evans"
                         },
                         new
                         {
                             Id = 4,
-                            Name = "Szeerewymon",
-                            Surname = "Notyutwicki"
+                            Name = "Irwin",
+                            Surname = "Jones"
                         },
                         new
                         {
                             Id = 5,
-                            Name = "Szymbvcbon",
-                            Surname = "Nowityutcki"
-                        },
-                        new
-                        {
-                            Id = 6,
-                            Name = "Szymbvcbon",
-                            Surname = "Nowutyuicki"
-                        },
-                        new
-                        {
-                            Id = 7,
-                            Name = "Szymhgjghon",
-                            Surname = "Notyutwicki"
-                        },
-                        new
-                        {
-                            Id = 8,
-                            Name = "Szymjghjgon",
-                            Surname = "Nowiutyucki"
+                            Name = "Troth",
+                            Surname = "Smith"
                         });
                 });
 #pragma warning restore 612, 618

@@ -1,0 +1,12 @@
+C:\Users\Szymon Nowicki\Desktop\projekty\rekrutacja\SourceFull\SourceFullStoreDb\obj\Debug\netstandard2.0\SourceFullStoreDb.csprojAssemblyReference.cache
+C:\Users\Szymon Nowicki\Desktop\projekty\rekrutacja\SourceFull\SourceFullStoreDb\obj\Debug\netstandard2.0\SourceFullStoreDb.AssemblyInfoInputs.cache
+C:\Users\Szymon Nowicki\Desktop\projekty\rekrutacja\SourceFull\SourceFullStoreDb\obj\Debug\netstandard2.0\SourceFullStoreDb.AssemblyInfo.cs
+C:\Users\Szymon Nowicki\Desktop\projekty\rekrutacja\SourceFull\SourceFullStoreDb\obj\Debug\netstandard2.0\SourceFullStoreDb.csproj.CoreCompileInputs.cache
+C:\Users\Szymon Nowicki\Desktop\projekty\rekrutacja\SourceFull\SourceFullStoreDb\bin\Debug\netstandard2.0\SourceFullStoreDb.deps.json
+C:\Users\Szymon Nowicki\Desktop\projekty\rekrutacja\SourceFull\SourceFullStoreDb\bin\Debug\netstandard2.0\SourceFullStoreDb.dll
+C:\Users\Szymon Nowicki\Desktop\projekty\rekrutacja\SourceFull\SourceFullStoreDb\bin\Debug\netstandard2.0\SourceFullStoreDb.pdb
+C:\Users\Szymon Nowicki\Desktop\projekty\rekrutacja\SourceFull\SourceFullStoreDb\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\Szymon Nowicki\Desktop\projekty\rekrutacja\SourceFull\SourceFullStoreDb\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\Szymon Nowicki\Desktop\projekty\rekrutacja\SourceFull\SourceFullStoreDb\obj\Debug\netstandard2.0\SourceFullStoreDb.csproj.CopyComplete
+C:\Users\Szymon Nowicki\Desktop\projekty\rekrutacja\SourceFull\SourceFullStoreDb\obj\Debug\netstandard2.0\SourceFullStoreDb.dll
+C:\Users\Szymon Nowicki\Desktop\projekty\rekrutacja\SourceFull\SourceFullStoreDb\obj\Debug\netstandard2.0\SourceFullStoreDb.pdb
